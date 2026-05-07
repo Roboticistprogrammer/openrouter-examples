@@ -9,4 +9,4 @@ typescript/bun.lock
 .venv/
 __pycache__/
 *.py[cod]
-.env.*
+.env
